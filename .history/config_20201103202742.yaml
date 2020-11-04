@@ -1,0 +1,4 @@
+baseURL: http://example.org/
+languageCode: pt-BR
+title: My New Hugo Site
+theme: "ananke"

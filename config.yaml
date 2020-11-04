@@ -1,0 +1,4 @@
+baseURL: http://example.org/
+languageCode: pt-BR
+title: Meu site
+theme: "ananke"

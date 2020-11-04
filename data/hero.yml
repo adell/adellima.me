@@ -1,0 +1,13 @@
+---
+enable: false
+topTitle: Bem vindo, eu sou Ademir
+content: >
+  # Estou aqui para ajudar sua empresa
+
+  Me diga o que precisa e te digo se posso te ajudar, aumente sua rede de 
+  contato e me envie
+buttonName: Uma mensagem
+buttonURL: contact
+image: images/hero/2960351.jpg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
